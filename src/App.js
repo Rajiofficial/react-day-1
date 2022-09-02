@@ -4,7 +4,7 @@ import './newcardcomponent/Cardcomponent.css'
 // import Counter from './counter';
 // import {useState} from "react";
 // import Todoapp from './todoapp'
-// import allcomponent from './newcardcomponent/cardcomponent'
+// import allcomponent from './newcardcomponent/cardcomponentygadyagdy'
 import Cardcomponent from './newcardcomponent/Cardcomponent';
 
   const product=[
